@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1a09f254cee84bf4584f993bac24544e
+  m_SerializeEntries:
+  - m_GUID: 6f53c1259b441374b8b37712e8ccae78
+    m_Address: Tile1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd74ea70b462031448f32138cfedfcfa
+    m_Address: Tile2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16824ea16f59fc64b9ce6d78b35f5e35
+    m_Address: Tile3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16562a828403e6f4d9cc1932dac8b93e
+    m_Address: Tile4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6171baffabb771f44aaf4183d91e88ee
+    m_Address: Fig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63300f4f3320a9d479e81e00e3bda42e
+    m_Address: Mushroom
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9bb14680eb51364783c2f1330312046
+    m_Address: Candy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce6f4d03834aa3e4382b0855deaa6a58
+    m_Address: Croissant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e981fee78175ea044a4adfc3c13d8ccd
+    m_Address: God-Food
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8dc902c931389d849a9fdf58953b7978
+    m_Address: Beer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31c757157ef9d574aa8c382a566c591e
+    m_Address: Coconut
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3cd1d81004511864282f94db795eb4e4
+    m_Address: Egg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80c91d07b95774f40946f11604f70f2d
+    m_Address: Pineapple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e77c79968a5955448b6f92595eafa38
+    m_Address: Noodle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88eeeabe573c82341809467bc18c7993
+    m_Address: Donut
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9dfef90277708804ca02166a6e003870
+    m_Address: Hot-Chocolate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ab62fd502df309488c38a3acf6ff833
+    m_Address: Hot-Dog
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49f5a148c6e911d4c832a786bff7c2df
+    m_Address: Shrimp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b22f53a32d9554a40a7691dea95fbcca
+    m_Address: UI_Generic_Button_Green
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a7bf38cd05760544abb85ff8f4531db
+    m_Address: UI_Generic_Bag_Icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d37edf5562a55134ba67477da2eae519
+    m_Address: TickIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d19fa20fb4164454781540cdd1524306
+    m_Address: CuisineParty_Background
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 944fb84703b7b47499c5740ef467b1f6
+    m_Address: CuisineParty_Ribbon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e29c274051107e04da3de65be1a1d2e0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1ddc216412f21c24da1df65ef1e41b1c, type: 2}
+    - {fileID: 11400000, guid: d79cc9908c81ce84a86f3d6b71ed84ca, type: 2}
